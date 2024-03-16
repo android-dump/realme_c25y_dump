@@ -1,0 +1,21 @@
+#### Add Project Build Info ####
+ro.sys.fw.bg_apps_limit=16
+#### Add Project Build Info ####
+ro.product.model=RMX3268
+ro.product.system.model=RMX3268
+ro.product.name=RMX3268
+ro.product.system.name=RMX3268
+ro.product.device=RED8D7
+ro.product.system.device=RED8D7
+ro.build.product=RED8D7
+ro.build.device_family=OPT610
+#OPPO_FINGERPRINT_TIME=1685617956000
+ro.oppo.market.device_name=realme C25Y
+ro.build.fingerprint=realme/RMX3268/RED8D7:11/RP1A.201005.001/1685617956000:user/release-keys
+ro.system.build.fingerprint=realme/RMX3268/RED8D7:11/RP1A.201005.001/1685617956000:user/release-keys
+ro.build.version.base_os=realme/RMX3268/RED8D7:11/RP1A.201005.001/1659718291000:user/release-keys
+#WT_PRODUCTION_VERSION=RMX3265_11_A.49
+ro.build.display.id=RMX3268_11_A.49
+ro.build.version.ota=RMX3268_11_A.49_20230601175252
+ro.vendor.build.version.ota=RMX3268_11_A.49_20230601175252
+import /system/etc/comsoft/build_S19617_${ro.boot.country_region}.prop
