@@ -18,4 +18,4 @@ this is a firmware dump generated with [dumpyara](https://github.com/AndroidDump
 
 ### NOTE:
 
-if there's missing odm/* files, just cd to where you cloned this repo and symlink /vendor/odm to odm (e.g. ln -s /vendor/odm ./odm)
+if there's missing odm/* files, just cd to where you cloned this repo and symlink /vendor/odm to odm (e.g. ln -s vendor/odm ./odm)
