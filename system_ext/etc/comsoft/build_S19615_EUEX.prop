@@ -1,0 +1,4 @@
+#### Add Build Info With Turkey ####
+ro.product.system_ext.name=RMX3269EEA
+#OPPO_FINGERPRINT_TIME=1685617956000
+ro.system_ext.build.fingerprint=realme/RMX3269EEA/RED8F6:11/RP1A.201005.001/1685617956000:user/release-keys

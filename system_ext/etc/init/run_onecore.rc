@@ -1,0 +1,5 @@
+service vendor.onecore_run /system_ext/bin/one-multi-core-v4.sh 2 log
+    user root
+    group system root
+    disabled
+    oneshot
