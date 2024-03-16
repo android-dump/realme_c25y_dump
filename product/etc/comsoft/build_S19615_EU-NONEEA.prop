@@ -1,0 +1,4 @@
+#### Add Build RU Info ####
+ro.product.product.name=RMX3269BA
+#OPPO_FINGERPRINT_TIME=1685617956000
+ro.product.build.fingerprint=realme/RMX3269BA/RED8F6:11/RP1A.201005.001/1685617956000:user/release-keys

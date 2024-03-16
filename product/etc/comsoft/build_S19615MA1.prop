@@ -1,0 +1,7 @@
+#### Add Project Build Info ####
+ro.product.product.model=RMX3269
+ro.product.product.name=RMX3269
+ro.product.product.device=RED8F6
+#OPPO_FINGERPRINT_TIME=1685617956000
+ro.product.build.fingerprint=realme/RMX3269/RED8F6:11/RP1A.201005.001/1685617956000:user/release-keys
+import /product/etc/comsoft/build_S19615_${ro.boot.country_region}.prop

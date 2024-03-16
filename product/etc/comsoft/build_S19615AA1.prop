@@ -1,0 +1,2 @@
+#### Add Project Build Info ####
+import /product/etc/comsoft/build_S19615_${ro.boot.country_region}.prop
