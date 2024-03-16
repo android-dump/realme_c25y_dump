@@ -14,3 +14,8 @@ this is a firmware dump generated with [dumpyara](https://github.com/AndroidDump
 - is_ab: true
 - brand: realme
 - branch: RMX3265_ctcc-user-11-RP1A.201005.001-22419-release-keys
+
+
+### NOTE:
+
+if there's missing odm/* files, just cd to where you cloned this repo and symlink /vendor/odm to odm (e.g. ln -s /vendor/odm ./odm)
